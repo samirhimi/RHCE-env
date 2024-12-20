@@ -24,7 +24,7 @@ Before you begin, ensure you have the following:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/samirhimi/RHCE-env.git
-   cd rhce-lab-setup
+   cd RHCE-env
    ```
 
 2. **Review the Documentation:**
